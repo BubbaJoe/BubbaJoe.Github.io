@@ -1,6 +1,8 @@
 # [Joe Williams - Personal Website]
 
-https://blackrockdigital.github.io/
+Personal Website Link - https://bubbajoe.github.io/
+
+Thanks to Blackrock Digital for supplying open source bootstrap templates! -  https://github.com/BlackrockDigital/startbootstrap-resume
 
 ## Copyright and License
 
